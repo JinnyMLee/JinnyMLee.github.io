@@ -1,9 +1,8 @@
 ---
-
 layout: post
-
 title: ISL 1. Introduction
-
+subtitle: An Introduction to Statistical Learning
+tags: [ISL]
 ---
 
 
