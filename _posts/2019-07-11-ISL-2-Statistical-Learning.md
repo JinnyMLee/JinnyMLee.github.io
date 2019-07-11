@@ -1,6 +1,9 @@
-# 2. Statistical Learning
-
-[TOC]
+---
+layout: post
+title: ISL 2. Statistical Learning
+subtitle: An Introduction to Statistical Learning
+tags: [ISL]
+---
 
 ## 2.1 What Is Statistical Learning?
 
