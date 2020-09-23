@@ -1,3 +1,10 @@
+---
+layout: post
+title: ISL 8. Tree-Based Methods
+subtitle: An Introduction to Statistical Learning
+tags: [ISL]
+use_math: true
+---
 
 
 
